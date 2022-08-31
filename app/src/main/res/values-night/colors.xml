@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="BlueByMe_1">#264653</color>
+    <color name="bgColor">#FAD3B3</color>
+    <color name="GreyedOut">#FFE9D6</color>
+    <color name="Grey_just">#adb5bd</color>
+    <color name="PrimaryColor">#FEB372</color>
+
+</resources>
